@@ -1,7 +1,3 @@
-Certainly! I'll help you create a README file for your AI-ML-MultiAgentRL-UnityML-Hummingbirds project. A good README file is essential for users and collaborators to understand your project quickly. Here's a template you can use:
-
----
-
 # AI-ML Multi-Agent Reinforcement Learning with UnityML - Hummingbirds
 
 ## Overview
